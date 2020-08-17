@@ -4,3 +4,7 @@
 [submodule "ppix_final"]
 	path = ppix_final
 	url = https://github.com/jamesETsmith/ppix_final
+[submodule "symmetry_breaking_paper"]
+	path = symmetry_breaking_paper
+	url = https://github.com/ankit76/symmetry_breaking_paper
+	branch = master
