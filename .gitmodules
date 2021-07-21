@@ -8,3 +8,6 @@
 	path = symmetry_breaking_paper
 	url = https://github.com/ankit76/symmetry_breaking_paper
 	branch = master
+[submodule "fp_afqmc"]
+	path = fp_afqmc
+	url = https://github.com/ankit76/fp_afqmc
