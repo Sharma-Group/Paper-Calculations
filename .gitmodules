@@ -11,3 +11,6 @@
 [submodule "fp_afqmc"]
 	path = fp_afqmc
 	url = https://github.com/ankit76/fp_afqmc
+[submodule "benzene_dmc"]
+	path = benzene_dmc
+	url = https://github.com/iliya-s/benzene_dmc
