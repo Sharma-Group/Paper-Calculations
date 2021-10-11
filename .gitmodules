@@ -14,3 +14,6 @@
 [submodule "benzene_dmc"]
 	path = benzene_dmc
 	url = https://github.com/iliya-s/benzene_dmc
+[submodule "nevpt_vmc_paper"]
+	path = nevpt_vmc_paper
+	url = https://github.com/nsblunt/nevpt_vmc_paper
